@@ -18,3 +18,5 @@ Steps.
 
 
 [Training Video](https://youtu.be/-tuAOXsDKyw)
+
+[My Notes](https://drive.google.com/file/d/1viTxuJyHjW19UDJ0YG6CPorG_MAlu87g/view?usp=sharing)
