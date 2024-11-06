@@ -15,3 +15,6 @@ Steps.
  - Run snake_game_human.py first.
  - Run agent.py to make ai to play.
  - Watch training video to say, Wow! if you are new to Ml or just say , What the Hell it is , and move on!
+
+
+[Training Video](https://youtu.be/-tuAOXsDKyw)
